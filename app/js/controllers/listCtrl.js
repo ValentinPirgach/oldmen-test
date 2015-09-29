@@ -29,9 +29,6 @@ OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', 
     };
 
     ($scope.setInitial = function (obj) {
-
-        console.log('---', obj);
-
         $scope.currentRegion  = obj.region;
         $scope.currentCountry = obj.country;
         $scope.countries      = $rootScope.data_model.countries[obj.region];
