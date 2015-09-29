@@ -16,15 +16,18 @@ OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', 
 
     var checkInitial = function () {
         var initial = {
-            region: storageLocation.get('region') || 'Europe',
-            country: storageLocation.get('country') || 'Germany'
+            region  : storageLocation.get('region')  || 'Europe',
+            country : storageLocation.get('country') || 'Germany'
         };
+
+        var country = $stateParams.country || initial.country;
+
+        if(!$rootScope.data_model.countries[initial.region])
+            country = '';
 
         return {
             region  : $stateParams.region || initial.region,
-            country : $stateParams.country || ($stateParams.region == initial.region || (!$stateParams.region && !storageLocation.get('region'))) ? initial.country :
-                        ($rootScope.data_model.countries[$stateParams.region]) ?
-                            $rootScope.data_model.countries[$stateParams.region][0] : ''
+            country : country
         }
     };
 
