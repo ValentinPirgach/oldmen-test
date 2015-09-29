@@ -22,13 +22,16 @@ OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', 
 
         return {
             region  : $stateParams.region || initial.region,
-            country : $stateParams.country || ($stateParams.region == initial.region || !$stateParams.region) ? initial.country :
+            country : $stateParams.country || ($stateParams.region == initial.region || (!$stateParams.region && !storageLocation.get('region'))) ? initial.country :
                         ($rootScope.data_model.countries[$stateParams.region]) ?
                             $rootScope.data_model.countries[$stateParams.region][0] : ''
         }
     };
 
     ($scope.setInitial = function (obj) {
+
+        console.log('---', obj);
+
         $scope.currentRegion  = obj.region;
         $scope.currentCountry = obj.country;
         $scope.countries      = $rootScope.data_model.countries[obj.region];
