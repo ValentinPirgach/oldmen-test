@@ -1,0 +1,8 @@
+<div class="contacts-wrapper" ng-controller="contactsCtrl" click-outside>
+    <div class="close" ng-click="close()">X</div>
+    <div class="contact" ng-repeat="contact in contacts">
+        <div class="name">{{contact.name}}</div>
+        <div class="email">Write: <a href="mailto:{{contact.email}}">{{contact.email}}</a></div>
+        <div class="phone">Call: <a href="callto:{{contact.phone}}">{{contact.phone}}</a></div>
+    </div>
+</div>

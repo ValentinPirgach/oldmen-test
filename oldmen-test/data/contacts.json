@@ -1,0 +1,2039 @@
+{
+  "regions": [
+    "Africa",
+    "The Americas",
+    "Asia",
+    "Europe",
+    "Middle East"
+  ],
+  "countries": {
+    "Africa": [
+      "Algeria",
+      "Egypt",
+      "Morocco",
+      "South Africa",
+      "Tunisia",
+      "Other African Countries"
+    ],
+    "Asia": [
+      "China",
+      "Japan",
+      "Other Asian Countries"
+    ],
+    "Europe": [
+      "Austria",
+      "Baltic States - Lithuania, Latvia, Estonia",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Czech Republic",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Luxemburg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ukraine",
+      "United Kingdom",
+      "Other European Countries"
+    ],
+    "Middle East": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaidjan",
+      "Bahrain",
+      "Georgia",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kuwait",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Mongolia",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Tadzhikistan",
+      "Turkey",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Yemen",
+      "Other Middle-East Countries"
+    ]
+  },
+  "contacts": {
+    "Algeria": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Interchim S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Olivier Cadas",
+        "address": "213 Bis, Avenue Kennedy, 03103 Montlucon Cedex, France",
+        "phone": "+33 4 70038855",
+        "fax": "+33 4 70038260",
+        "email": "olivier.cadas@interchim.fr",
+        "web": "www.interchim.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Egypt": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Morocco": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Interchim S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Olivier Cadas",
+        "address": "213 Bis, Avenue Kennedy, 03103 Montlucon Cedex, France",
+        "phone": "+33 4 70038855",
+        "fax": "+33 4 70038260",
+        "email": "olivier.cadas@interchim.fr",
+        "web": "www.interchim.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "South Africa": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Mary de Sousa",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+27 119791188",
+        "email": "mary.desousa@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Tunisia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Interchim S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Olivier Cadas",
+        "address": "213 Bis, Avenue Kennedy, 03103 Montlucon Cedex, France",
+        "phone": "+33 4 70038855",
+        "fax": "+33 4 70038260",
+        "email": "olivier.cadas@interchim.fr",
+        "web": "www.interchim.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Other African Countries": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "The Americas": [
+      {
+        "name": "Tosoh Bioscience LLC",
+        "responsibility": "All products",
+        "address": "3604 Horizon Drive, Suite 100,King of Prussia, PA 19406, U.S.A.",
+        "phone": "+1 800 366 4875",
+        "fax": "+1 610 272 3028",
+        "email": "info.tbl@tosoh.com",
+        "web": "www.tosohbioscience.com"
+      }
+    ],
+    "China": [
+      {
+        "name": "Tosoh Bioscience Shanghai Co. Ltd.",
+        "responsibility": "All products",
+        "address": "Room 301, Plaza B, No. 1289 Yi Shan Road, Xu Hui District, Shanghai, 200233, China",
+        "phone": "+86 21 3461 0856",
+        "fax": "+86 21 3461 0858",
+        "email": "info.tosoh.com.cn",
+        "web": "www.separations.asia.tosohbioscience.com"
+      }
+    ],
+    "Japan": [
+      {
+        "name": "Tosoh Bioscience Japan",
+        "responsibility": "All products",
+        "address": "3-8-2 Shiba, Minato-Ku, Tokyo 105-8623, Japan",
+        "phone": "+81 3 5427 5118",
+        "fax": "+81 3 5427 5198",
+        "email": "info@tosoh.co.jp",
+        "web": "www.tosohbioscience.com"
+      }
+    ],
+    "Other Asian Countries": [
+      {
+        "name": "Tosoh Asia Pte. Ltd.",
+        "responsibility": "All products",
+        "address": "63 Market Street #10-03, Bank of Singapore 048942, Singapore",
+        "phone": "+65 6226 5106",
+        "fax": "+65 6226 5215",
+        "email": "info.tsas@tosoh.com",
+        "web": "www.tosohasia.com"
+      }
+    ],
+    "Austria": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Mr. Maik Röhl",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9354607",
+        "fax": "+49 711 1325789",
+        "email": "maik.roehl@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Laboratory products (columns)",
+        "person": "Dr. Marina Urmann",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 173 6641846",
+        "fax": "+49 711 1325789",
+        "email": "marina.urmann@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Baltic States - Lithuania, Latvia, Estonia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Biotecha UAB",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Laura Urbonaité",
+        "address": "Antakalnio g. 36, 10305 Vilnius, Lithuania",
+        "phone": "+370 5 2709055",
+        "fax": "+370 5 2709056",
+        "email": "laura.urbonaite@biotecha.lt",
+        "web": "www.biotecha.lt"
+      }
+    ],
+    "Belgium": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sercolab bvba",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Frans Thijs",
+        "address": "Westkaai 7, 2170 Merksem, Belgium",
+        "phone": "+32 3 6403315",
+        "fax": "+32 3 6440405",
+        "email": "frans.thijs@sercolab.be",
+        "web": "www.sercolab.be"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Erik Heeren",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+31 61336 0995",
+        "email": "erik.heeren@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Bulgaria": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Portlab Europe Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Mariq Pipeva",
+        "address": "Nikolay Hrelkov street 18, 4600 Velingrad, Bulgaria",
+        "phone": "+359 887270494",
+        "email": "portlabeuropeltd@gmail.com"
+      }
+    ],
+    "Croatia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Obrnuta Faza j.d.o.o.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Zvonimir Maji",
+        "address": "Krapinska 36, 10000 Zagreb",
+        "phone": "+385 1 3026 590",
+        "fax": "+385 1 3093 165",
+        "email": "zvonimir.majic@obrnutafaza.hr",
+        "web": "www.obrnutafaza.hr"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Thomas Foerster",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+49 172 5236308",
+        "email": "thomas.foerster@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Czech Republic": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Watrex Praha, s.r.o",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Milan Minarik",
+        "address": "Drnovska 1112/60, 161 00 Praha 6-Ruzyne, Czech Republic",
+        "phone": "+42 226 203 505",
+        "email": "sales@watrex.com",
+        "web": "www.watrex.cz"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Jiri Moos",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+42 0246003221",
+        "email": "jiri.moos@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Denmark": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "MD Scientific ApS",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Soren Jensen",
+        "address": "Klokkerfaldet 23, 8210 Aarhus V., Denmark",
+        "phone": "+45 7027 8565",
+        "fax": "+45 7027 8566",
+        "email": "sorenj@md-scientific.dk",
+        "web": "www.md-scientific.dk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+45 43565900",
+        "email": "denorder@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "MD Scientific ApS",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Marek Danielewicz",
+        "address": "Klokkerfaldet 23, 8210 Aarhus V., Denmark",
+        "phone": "+45 7027 8565",
+        "fax": "+45 7027 8566",
+        "email": "marekd@md-scientific.dk",
+        "web": "www.md-scientific.dk"
+      }
+    ],
+    "Finland": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+44 7885 964643",
+        "fax": "+49 711 1325789",
+        "email": "david.metcalfe@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Mikko Savin",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+35 8503680816",
+        "email": "mikko.savin@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "Scantec Nordic AB",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Sara Johansson",
+        "address": "Box 238, 433 24 Partille, Sweden",
+        "phone": "+46 31 336 9012",
+        "fax": "+46 31 336 9036",
+        "email": "jonas@scantecnordic.se",
+        "web": "www.scantecnordic.se"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+44 7885 964643",
+        "fax": "+49 711 1325789",
+        "email": "david.metcalfe@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      }
+    ],
+    "France": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Interchim S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Olivier Cadas",
+        "address": "213 Bis, Avenue Kennedy, 03103 Montlucon Cedex, France",
+        "phone": "+33 4 70038855",
+        "fax": "+33 4 70038260",
+        "email": "olivier.cadas@interchim.fr",
+        "web": "www.interchim.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Virginie Lemaire",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+33 618313856",
+        "email": "virginie.lemaire@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Germany": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Romain Dabre (BW, HB, HH, HE, NI, NW, RP, SH, SL)",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Mr. Maik Röhl (BY, BE, BB, MV, SN, ST, TH)",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9354607",
+        "fax": "+49 711 1325789",
+        "email": "maik.roehl@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Laboratory products (columns)",
+        "person": "Dr. Marina Urmann",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 173 6641846",
+        "fax": "+49 711 1325789",
+        "email": "marina.urmann@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Greece": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Metrolab S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Pantelis Kapetis",
+        "address": "6-8 Spyridogianni str., 11522 Athens, Greece",
+        "phone": "+30 210 6468840",
+        "fax": "+30 210 6463740",
+        "email": "pkapetis@metrolab.gr",
+        "web": "www.metrolab.gr"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Hungary": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Benimarcom Ltd",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Anita Nagy",
+        "address": "Rózsa u 28/1, 2230 Gyömro, Hungary",
+        "phone": "+36 6302393449",
+        "email": "office@benimarcom.com",
+        "web": "www.benimarcom.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Gabor Varadi",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+36 308225492",
+        "email": "gabor.varadi@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Iceland": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "MD Scientific ApS",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Soren Jensen",
+        "address": "Klokkerfaldet 23, 8210 Aarhus V., Denmark",
+        "phone": "+45 7027 8565",
+        "fax": "+45 7027 8566",
+        "email": "sorenj@md-scientific.dk",
+        "web": "www.md-scientific.dk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+45 43565900",
+        "email": "denorder@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "MD Scientific ApS",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Marek Danielewicz",
+        "address": "Klokkerfaldet 23, 8210 Aarhus V., Denmark",
+        "phone": "+45 7027 8565",
+        "fax": "+45 7027 8566",
+        "email": "marekd@md-scientific.dk",
+        "web": "www.md-scientific.dk"
+      }
+    ],
+    "Ireland": [
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eircustsupport@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Italy": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Labservice Analytica S.R.L.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Alessandro Dipinti",
+        "address": "Via Emilia 51/C, 40011 Anzola Dell´Emilia (Bo), Italy",
+        "phone": "+39 051 732351",
+        "fax": "+39 051 732759",
+        "email": "dipinti@labservice.it",
+        "web": "www.labservice.it"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Lorenzo Bruno",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+39 393482314163",
+        "email": "lorenzo.bruno@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "Labservice Analytica S.R.L.",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Alessandro Dipinti",
+        "address": "Via Emilia 51/C, 40011 Anzola Dell´Emilia (Bo), Italy",
+        "phone": "+39 051 732351",
+        "fax": "+39 051 732759",
+        "email": "dipinti@labservice.it",
+        "web": "www.labservice.it"
+      }
+    ],
+    "Luxemburg": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Erik Heeren",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+31 61336 0995",
+        "email": "erik.heeren@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Netherlands": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "JSB Netherlands",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Sander Affourtit",
+        "address": "Appolloweg 2-B, 8239 DA Lelystad, The Netherlands",
+        "phone": "+31 320 870018",
+        "fax": "+31 320 870019",
+        "email": "sander.affourtit@go-jsb.com",
+        "web": "www.go-jsb.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Erik Heeren",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+31 61336 0995",
+        "email": "erik.heeren@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Norway": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+44 7885 964643",
+        "fax": "+49 711 1325789",
+        "email": "david.metcalfe@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Nerliens Meszansky A.S",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Bo Emilsson",
+        "address": "Okernveien 121, 0579 Oslo, Norway",
+        "phone": "+47 22 66 65 00",
+        "fax": "+47 22 66 65 01",
+        "email": "bo.emilsson@nmas.no",
+        "web": "www.nmas.no"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Berit Lökken",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+47 92441521",
+        "email": "berit.lokken@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Poland": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Polygen sp. z o o.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Krystyna Niedzielska",
+        "address": "ul. Gornych Walow 46/1, 44-100 Gilwice, Poland",
+        "phone": "+48 32 2388195",
+        "fax": "+48 32 2388160",
+        "email": "polygen@polygen.com.pl",
+        "web": "www.polygen.com.pl"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr.Ryszard Orzechowicz",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+48 604620900",
+        "email": "ryszard.orzechowicz@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "Polygen sp. z o o.",
+        "responsibility": "GPC instruments",
+        "person": "Ms. Krystyna Niedzielska",
+        "address": "ul. Gornych Walow 46/1, 44-100 Gilwice, Poland",
+        "phone": "+48 32 2388195",
+        "fax": "+48 32 2388160",
+        "email": "polygen@polygen.com.pl",
+        "web": "www.polygen.com.pl"
+      }
+    ],
+    "Portugal": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Teknokroma Analitica S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Jaume Costa",
+        "address": "Camí de Can Calders, 14, Sant Cugat del VAll productsès, 08173 Barcelona, Spain",
+        "phone": "+34 936 748 800",
+        "fax": "+34 936 752 405",
+        "email": "jcosta@teknokroma.es",
+        "web": "www.teknokroma.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Angel Castro",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+34 609212727",
+        "email": "angel.castro@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "Teknokroma Analitica S.A.",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jaume Costa",
+        "address": "Camí de Can Calders, 14, Sant Cugat del VAll productsès, 08173 Barcelona, Spain",
+        "phone": "+34 936 748 800",
+        "fax": "+34 936 752 405",
+        "email": "jcosta@teknokroma.es",
+        "web": "www.teknokroma.com"
+      }
+    ],
+    "Romania": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Benimarcom Ltd",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Anita Nagy",
+        "address": "Rózsa u 28/1, 2230 Gyömro, Hungary",
+        "phone": "+36 6302393449",
+        "email": "office@benimarcom.com",
+        "web": "www.benimarcom.com"
+      }
+    ],
+    "Russia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Fizlabpribor Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Nina Senatorova",
+        "address": "Varshavskoye Shosse 125G, building 5, office 325, 117587 Moscow, Russia",
+        "phone": "+7 495 727 31 21",
+        "fax": "+7 495 280-13 48",
+        "email": "ns@fizlabpribor.ru",
+        "web": "www.fizlabpribor.ru"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Vera Peneva",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+7 4956215828",
+        "email": "vera.peneva@ru.sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Slovakia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Jiri Moos",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+42 0246003221",
+        "email": "jiri.moos@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Slovenia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "KOBIS d.o.o.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Stanislav Kozamernik",
+        "address": "Kidriceva 11, 1236 Trzin, Slovenia",
+        "phone": "+386 1 5636080",
+        "fax": "+386 1 5636089",
+        "email": "slavko.kozamernik@kobis.si",
+        "web": "www.kobis.si"
+      }
+    ],
+    "Spain": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Teknokroma Analitica S.A.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Jaume Costa",
+        "address": "Camí de Can Calders, 14, Sant Cugat del VAll productsès, 08173 Barcelona, Spain",
+        "phone": "+34 936 748 800",
+        "fax": "+34 936 752 405",
+        "email": "jcosta@teknokroma.es",
+        "web": "www.teknokroma.com"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Angel Castro",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+34 609212727",
+        "email": "angel.castro@sial.com",
+        "web": "www.sigmaaldrich.com"
+      },
+      {
+        "name": "Teknokroma Analitica S.A.",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jaume Costa",
+        "address": "Camí de Can Calders, 14, Sant Cugat del VAll productsès, 08173 Barcelona, Spain",
+        "phone": "+34 936 748 800",
+        "fax": "+34 936 752 405",
+        "email": "jcosta@teknokroma.es",
+        "web": "www.teknokroma.com"
+      }
+    ],
+    "Sweden": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+44 7885 964643",
+        "fax": "+49 711 1325789",
+        "email": "david.metcalfe@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Scantec Nordic AB",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Sara Johansson",
+        "address": "Box 238, 433 24 Partille, Sweden",
+        "phone": "+46 31 336 9012",
+        "fax": "+46 31 336 9036",
+        "email": "jonas@scantecnordic.se",
+        "web": "www.scantecnordic.se"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Marcin Bielawski",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+46 709424018",
+        "email": "marcin.bielawski@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Switzerland": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Dr. Romain Dabre",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 172 9362470",
+        "fax": "+49 711 1325789",
+        "email": "romain.dabre@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sebio GmbH",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Felix Senn",
+        "address": "Geissbrunnenweg 14, 4452 Itingen BL, Switzerland",
+        "phone": "+41 619718344",
+        "fax": "+41 619718345",
+        "email": "info@sebio.ch",
+        "web": "www.sebio.ch"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Ukraine": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. Hans Vuijst",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+32 472 810021",
+        "fax": "+49 711 1325789",
+        "email": "hans.vuijst@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Fizlabpribor Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Nina Senatorova",
+        "address": "Varshavskoye Shosse 125G, building 5, office 325, 117587 Moscow, Russia",
+        "phone": "+7 495 727 31 21",
+        "fax": "+7 495 280-13 48",
+        "email": "ns@fizlabpribor.ru",
+        "web": "www.fizlabpribor.ru"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Ms. Vera Peneva",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+7 4956215828",
+        "email": "vera.peneva@ru.sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "United Kingdom": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "All products",
+        "person": "Mr. David Metcalfe",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+44 7885 964643",
+        "fax": "+49 711 1325789",
+        "email": "david.metcalfe@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Alan Farnaby",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+44 1202 712202",
+        "email": "alan.farnaby@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Other European Countries": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Afghanistan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Armenia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Azerbaidjan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Bahrain": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Georgia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Iran": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tebofan Illia Co. Ltd. (TOFICO)",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Dr. Amir Mir Abdolamizi",
+        "address": "Medical, Industrial, Research & Laboratory products (columns & small scale resins) Supply, #3, No. 21, 4th street, Dr. Fatemi Ave., Tehran, Iran",
+        "phone": "+98 21 88 98 14 29",
+        "fax": "+98 21 88 98 03 09",
+        "email": "tofico@tofico.ir",
+        "web": "www.tofico.ir"
+      }
+    ],
+    "Iraq": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Israel": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Millitech Analytical Products LTD.",
+        "responsibility": "Process media",
+        "person": "Dr. Revital Feinstein",
+        "address": "P.O.Box 144, Ness Ziona 74100, Israel",
+        "phone": "+972 89322130/134",
+        "fax": "+972 89322126",
+        "email": "revital.f@millitech.co.il",
+        "web": "www.millitech.co.il"
+      },
+      {
+        "name": "Ophir Analytical Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Yehuda Viplich",
+        "address": "6 Hamelaha St, P.O. Box 11616, Park - Afek, Rosh-Ha`ayin 48091, Israel",
+        "phone": "+972 3 9022277",
+        "fax": "+972 3 9022488",
+        "email": "ophir-ana@bezeqint.net"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mr. Lawrence Hassner",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "phone": "+972 544346850",
+        "email": "lawrence.hassner@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Jordan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Kazakhstan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Kuwait": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Kyrgyzstan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Lebanon": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Mongolia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Oman": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Qatar": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Saudi Arabia": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Tadzhikistan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Turkey": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "United Arab Emirates": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Hichrom Ltd.",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "person": "Mrs. Gemma Lo",
+        "address": "1 The Markham Centre, Station Road, Theale, Berkshire RG7 4PE, Great Britain",
+        "phone": "+44 118 9303660",
+        "fax": "+44 118 9323484",
+        "email": "sales@hichrom.com",
+        "web": "www.hichrom.co.uk"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Uzbekistan": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Yemen": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ],
+    "Other Middle-East Countries": [
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "Process media",
+        "person": "Dr. Elke Prohaska",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 174 9897982",
+        "fax": "+49 711 1325789",
+        "email": "elke.prohaska@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Tosoh Bioscience GmbH",
+        "responsibility": "GPC instruments",
+        "person": "Mr. Jens Reichenberger",
+        "address": "Zettachring 6, 70567 Stuttgart, Germany",
+        "phone": "+49 6252 604227",
+        "fax": "+49 711 1325789",
+        "email": "jens.reichenberger@tosoh.com",
+        "web": "www.tosohbioscience.de"
+      },
+      {
+        "name": "Sigma-Aldrich",
+        "responsibility": "Laboratory products (columns & small scale resins)",
+        "address": "Eschenstrasse 5, 82024 Taufkirchen, Germany",
+        "email": "eurTechServ@sial.com",
+        "web": "www.sigmaaldrich.com"
+      }
+    ]
+  }
+}

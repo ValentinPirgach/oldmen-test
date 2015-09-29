@@ -1,0 +1,20 @@
+@media (max-width: 419px) {
+    .selection-wrapper,
+    .contacts-wrapper {
+        width: 100%;
+    }
+}
+
+@media (min-width: 420px) and (max-width: 1059px) {
+    .selection-wrapper,
+    .contacts-wrapper {
+        width: 75%;
+    }
+}
+
+@media (min-width: 1060px) {
+    .selection-wrapper,
+    .contacts-wrapper {
+        width: 50%;
+    }
+}

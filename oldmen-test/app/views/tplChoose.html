@@ -1,0 +1,14 @@
+<div class="selection-wrapper" ng-controller="listCtrl">
+    <div class="select-wrapper region" ng-class="{'active':co.region}">
+        <div class="select-value" ng-click="clickList('region', $event); clickRegion()">{{currentRegion}}</div>
+        <div class="select-option-wrapper" ng-if="co.region">
+            <div class="select-option" ng-click="setRegion(region)" ng-repeat="region in regions">{{region}}</div>
+        </div>
+    </div>
+    <div class="select-wrapper country" ng-if="currentCountry" ng-class="{'active':co.country}">
+        <div class="select-value" ng-click="clickList('country', $event);">{{currentCountry}}</div>
+        <div class="select-option-wrapper" ng-if="co.country">
+            <div class="select-option" ng-click="setCountry(country)" ng-repeat="country in countries">{{country}}</div>
+        </div>
+    </div>
+</div>
