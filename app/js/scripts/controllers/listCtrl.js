@@ -1,5 +1,5 @@
 "use strict";
-OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', function ($scope, $rootScope, $stateParams, $location) {
+S.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', '$timeout', function ($scope, $rootScope, $stateParams, $location, $timeout) {
     $scope.regions = [];
     $scope.countries = [];
 
@@ -22,6 +22,8 @@ OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', 
 
         var country = $stateParams.country || initial.country;
 
+        console.log('--', $rootScope.data_model);
+
         if(!$rootScope.data_model.countries[initial.region])
             country = '';
 
@@ -31,11 +33,14 @@ OT.controller('listCtrl', ['$scope', '$rootScope', '$stateParams', '$location', 
         }
     };
 
-    ($scope.setInitial = function (obj) {
-        $scope.currentRegion  = obj.region;
-        $scope.currentCountry = obj.country;
-        $scope.countries      = $rootScope.data_model.countries[obj.region];
-    })(checkInitial());
+
+    $timeout(function () {
+        ($scope.setInitial = function (obj) {
+            $scope.currentRegion  = obj.region;
+            $scope.currentCountry = obj.country;
+            $scope.countries      = $rootScope.data_model.countries[obj.region];
+        })(checkInitial());
+    });
 
     $scope.clickRegion = function () {
         $scope.regions = (!$rootScope.co.regions) ? $rootScope.data_model['regions'] : [];

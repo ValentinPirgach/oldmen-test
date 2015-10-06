@@ -1,4 +1,4 @@
-OT.directive('clickOutside', function ($timeout) {
+S.directive('clickOutside', function ($timeout) {
     return {
         link: function (scope, element) {
             element.on('click', function (e) {

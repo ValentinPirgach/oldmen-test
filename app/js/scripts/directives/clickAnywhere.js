@@ -1,4 +1,4 @@
-OT.directive('clickAnywhere', function ($rootScope) {
+S.directive('clickAnywhere', function ($rootScope) {
     return {
         link: function (scope, element, attr) {
             $rootScope.co = {};
